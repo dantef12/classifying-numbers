@@ -25,6 +25,3 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
 let number = 0
 number = 0
 basic.showNumber(number)
-basic.forever(function () {
-	
-})
